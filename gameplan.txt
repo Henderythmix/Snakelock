@@ -1,0 +1,27 @@
+Theme: Snakes
+
+Game Name: Snakelock
+
+Ideas:
+- Game like normal Snake
+-- You push blocks around to complete the Levels
+-- some blocks require a specific length to be pushed, so the level may require fruit
+
+Must Have:
+- Title Screen
+-- UI DONE
+-- Background
+- Snake player (duh)
+-- Controls DONE
+-- Rendering
+-- Collisions
+- Blocks you can push around
+- Map Rendering DONE
+- Puzzle Levels
+
+Should Have:
+- Arcade Mode
+-- Maybe 10
+
+Could Have:
+- 

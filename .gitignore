@@ -1,0 +1,5 @@
+*.o
+bin/snakelock
+bin/snakelock.exe
+.vscode
+screenshots
